@@ -1,0 +1,4 @@
+M001;Sara Benali;978-1-234567-89-7
+M002;Ali Bouziane;
+M003;Lina El Mostafa;978-0-123456-47-2,978-0-765432-10-1
+M004;Samira ;

@@ -1,0 +1,3 @@
+978-0-765432-10-1;Intelligence Artificielle;Youssef AI;2024;Informatique;disponible
+978-1-234567-89-7;Analyse Avancée;Fatima ELKHAYIR;2022;Mathématiques;disponible
+978-0-12345-46-5;Apprendre Python;Luc Martin;2023;Programmation;disponible
